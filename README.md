@@ -1,4 +1,3 @@
-## README (for personal reminders) 
 
 &nbsp;
 <p align="center">
